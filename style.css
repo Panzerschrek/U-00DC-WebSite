@@ -1,5 +1,24 @@
+div.main
+{
+	min-width: 640px;
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 8px;
+
+	background-color: #FAFAFA;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #D0D0D0;
+}
+
 div.caption
 {
 	text-align: center;
 	font-size: x-large;
+}
+
+div.copyright
+{
+	text-align: center;
+	font-size: small;
 }
